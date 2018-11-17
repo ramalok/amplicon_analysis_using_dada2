@@ -2,7 +2,7 @@
 
 ### Things to consider:
 
-> 1) What is the lenght of your reads?
+> 1) What is the length of your reads?
 > 2) Where reads generated in a way all are in the same direction? (i.e. re reads in the 5-3 and 3-5 direction in your fastq?)
 > 3) Reads from different runs should be processed separately
 > 4) If you want to merge reads from different runs later on, use the same sequence quality thresholds (at least trimming length)
