@@ -1,6 +1,6 @@
   ## **Analysis of amplicons using dada2 (https://benjjneb.github.io/dada2/) implemented to work in slurm clusters**
 
-Things to consider:
+*  Things to consider:
 
  1) What is the lenght of your reads?
  2) Where reads generated in a way all are in the same direction? (i.e. re reads in the 5-3 and 3-5 direction in your fastq?)
