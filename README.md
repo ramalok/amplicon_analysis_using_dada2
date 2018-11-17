@@ -12,5 +12,5 @@
  
  ### Steps
 
-1) `Generate your dada r code for each MiSeq run and run it in your cluster`
-2) `Merge relevant runs`
+> 1) Generate your dada r code for each MiSeq run and run it in your cluster
+> 2) Merge relevant runs
