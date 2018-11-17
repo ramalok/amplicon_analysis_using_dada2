@@ -7,3 +7,10 @@
  3) Reads from different runs should be processed separately
  4) If you want to merge reads from different runs later on, use the same sequence quality thresholds (at least trimming length)
  5) Primers should be removed before dada2 analyses (with e.g. https://cutadapt.readthedocs.io/en/stable/)
+ 
+ 
+ 
+ ### Steps
+
+1) `Generate your dada r code for each MiSeq run and run it in your cluster`
+2) `Merge relevant runs`
